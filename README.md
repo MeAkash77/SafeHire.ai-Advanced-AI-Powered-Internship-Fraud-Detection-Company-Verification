@@ -10,7 +10,7 @@ at the **BITS 2 BYTES Tech Fest** of **Bengal Institute of Technology, Kolkata**
 🎓 Celebrating **25 Glorious Years** of excellence at BIT,  
 this achievement marks a milestone for innovation, teamwork, and dedication 🚀
 
-![Screenshot 1](images/s1.png)
+![Screenshot 1](https://github.com/user-attachments/assets/b84958f9-b048-4d24-bbc1-7552bc809afe)
 
 ![Screenshot 1](images/s2.png)
 
