@@ -1,4 +1,4 @@
-# SnifTern.ai - Advanced Internship Fraud Detection Platform
+# SafeHire.ai - Advanced Internship Fraud Detection Platform
 
 **© 2025 SafeHire.ai. Developed by me Akash using cutting-edge AI and machine learning technologies.**
 
