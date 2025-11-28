@@ -20,6 +20,8 @@ this achievement marks a milestone for innovation, teamwork, and dedication 🚀
 
 ![Screenshot 1](https://github.com/user-attachments/assets/c0d8864b-3b82-4588-8aa9-811c9cdc18df)
 
+![Screenshot 1](https://github.com/user-attachments/assets/a311a0d9-5dc1-4d5d-8523-b28fbf042078)
+
 
 ## 🌟 **Project Overview**
 
