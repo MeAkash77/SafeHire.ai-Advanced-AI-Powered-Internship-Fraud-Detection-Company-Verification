@@ -25,7 +25,7 @@ this achievement marks a milestone for innovation, teamwork, and dedication 🚀
 
 ## 🌟 **Project Overview**
 
-SnifTern.ai is a comprehensive, AI-powered internship fraud detection platform built with Flask. It uses advanced machine learning and pattern recognition to identify fake internship postings and verify company legitimacy. The platform features a modern dark-themed web interface with multi-language support.
+SafeHire.ai is a comprehensive, AI-powered internship fraud detection platform built with Flask. It uses advanced machine learning and pattern recognition to identify fake internship postings and verify company legitimacy. The platform features a modern dark-themed web interface with multi-language support.
 
 ---
 
@@ -591,7 +591,7 @@ python app.py
 # Open browser: http://localhost:5000
 
 # Test features:
-# 1. Internship Detection tab - paste internship text
+# 1. Job and Internship Detection tab - paste Job or internship text
 # 2. Company Search tab - search "fakecorp" or "google"
 # 3. Integrations tab - paste LinkedIn/Indeed URLs
 # 4. Language dropdown - switch between English/Hindi/Bengali
