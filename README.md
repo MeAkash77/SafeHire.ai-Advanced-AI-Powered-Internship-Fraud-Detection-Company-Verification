@@ -12,7 +12,7 @@ this achievement marks a milestone for innovation, teamwork, and dedication 🚀
 
 ![Screenshot 1](https://github.com/user-attachments/assets/b84958f9-b048-4d24-bbc1-7552bc809afe)
 
-![Screenshot 1](images/s2.png)
+![Screenshot 1](https://github.com/user-attachments/assets/e33ef904-4665-4387-96a1-be569a6e33e5)
 
 ![Screenshot 1](images/s3.png)
 
